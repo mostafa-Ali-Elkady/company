@@ -10,6 +10,10 @@ body {
   background-color: #cbf7e0;
 }
 
+section {
+  overflow-x: hidden;
+}
+
 /* Start Navbar*/
 .navbar .logo {
   -webkit-clip-path: polygon(13% 0, 91% 0, 100% 100%, 0% 100%);
